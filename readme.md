@@ -2,7 +2,7 @@
 
 Run the script using Python:
 
-python web_page_parser.py
+python main.py
 
 
 The script will prompt you to choose between two options:
@@ -20,7 +20,7 @@ If you choose option 2, the script will look for HTML files in the `input` folde
 
 ## File Structure
 
-- `web_page_parser.py`: The main Python script
+- `main.py`: The main Python script
 - `requirements.txt`: List of Python dependencies
 - `input/`: Folder to place HTML files for parsing (when using option 2)
 - `output/`: Folder where parsed text files are saved
